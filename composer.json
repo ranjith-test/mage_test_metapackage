@@ -1,5 +1,5 @@
 {
-    "name": "ranjith/custom_package",
+    "name": "ranjith/mage_test_metapackage",
     "type": "metapackage",
     "authors": [
         {
