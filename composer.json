@@ -8,7 +8,8 @@
         }
     ],
     "require": {
-        "paypal/module-subscription": "^2.0"
+        "paypal/module-subscription": "^2.0",
+        "mailchimp/mc-magento2": "^103.4"
     },
     "repositories": [
         {
